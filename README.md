@@ -87,7 +87,7 @@ A hands-on SOAR automation lab integrating LimaCharlie EDR, Tines Stories, Slack
 - Automated endpoint isolation through LimaCharlie following analyst approval.
 - Implemented separate approval and rejection workflows.
 
-**Technologies:** LimaCharlie EDR, Tines Stories, Windows 10, Slack, Webhooks, YAML.
+**Technologies:** LimaCharlie EDR (D&R Rules/YAML), Tines Stories, Slack, Windows 10, Webhooks.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_REPOSITORY_URL)
 
