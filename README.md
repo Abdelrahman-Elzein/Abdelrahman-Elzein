@@ -77,19 +77,20 @@ Currently focused on developing practical SOC investigation, detection engineeri
 
 ### LimaCharlie + Tines SOAR – Automated Endpoint Isolation
 
-A hands-on SOAR automation lab integrating LimaCharlie EDR, Tines Stories, Slack, and a Windows 10 endpoint.
+A hands-on SOAR automation lab integrating LimaCharlie EDR, Tines Stories, Slack, email notifications, and a Windows 10 endpoint.
 
 **Implementation:**
-- Created a LimaCharlie detection rule to detect LaZagne.exe execution.
+- Created and tested a LimaCharlie detection rule to identify LaZagne.exe execution.
 - Configured LimaCharlie to forward security detections to Tines through a webhook.
-- Integrated Slack notifications for security alerts.
+- Integrated Slack and email notifications for security alerts.
 - Implemented a human approval mechanism before endpoint isolation.
 - Automated endpoint isolation through LimaCharlie following analyst approval.
 - Implemented separate approval and rejection workflows.
+- Retrieved and verified the endpoint's isolation status.
 
-**Technologies:** LimaCharlie EDR (D&R Rules/YAML), Tines Stories, Slack, Windows 10, Webhooks.
+**Technologies:** LimaCharlie EDR (D&R Rules/YAML), Tines Stories, Slack, Windows 10, Webhooks, REST API.
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_REPOSITORY_URL)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman-Elzein/LimaCharlie-Tines-SOAR-EDR-Automation)
 
 ---
 
