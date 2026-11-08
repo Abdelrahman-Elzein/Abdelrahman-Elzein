@@ -3,7 +3,7 @@
 
 ### SOC Analyst | SIEM | DFIR | Network Security
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soc-anwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-elzein)
 
 ---
 
@@ -144,4 +144,4 @@ Practical SOC, SIEM, threat-hunting, cloud investigation, and DFIR exercises com
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Elzein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soc-anwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Elzein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-elzein)
