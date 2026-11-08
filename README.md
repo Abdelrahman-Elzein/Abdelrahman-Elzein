@@ -27,7 +27,7 @@ Currently focused on developing practical SOC investigation, detection engineeri
 |---|---|
 | SIEM & Security Analytics | Splunk, Elastic Stack, IBM QRadar |
 | Detection & Investigation | SPL, KQL, Alert Triage, Threat Hunting, IOC Analysis |
-| EDR & SOAR | LimaCharlie, Microsoft Defender XDR, Tines |
+| EDR/XDR & SOAR | LimaCharlie, Microsoft Defender XDR, Tines |
 | Cloud Investigation | AWS CloudTrail, IAM, S3, EC2 |
 | Digital Forensics | FTK Imager, Volatility 3, Autopsy, KAPE, EZParser |
 | Network Security | FortiGate, Palo Alto, Cisco FTD/FMC, Cisco ISE |
