@@ -11,10 +11,11 @@
 Cybersecurity professional with a background in Network and Security Engineering and hands-on SOC/DFIR training.
 
 - 1.4 years of professional experience in Network & Security Engineering.
-- 10 months of intensive, hands-on SOC & DFIR training.
-- Practical experience with SIEM deployment, security monitoring, alert triage, and threat hunting.
-- Hands-on exposure to digital forensics, attack-chain reconstruction, and AWS cloud investigations.
-- Interested in Security Operations, Incident Response, Threat Detection, and Digital Forensics.
+- 10 months of intensive, hands-on SOC & DFIR training (Cybersecurity Master Diploma – RaiseUp Learning).
+- Practical experience with SIEM deployment, SOAR automation, security monitoring, alert triage, and threat hunting.
+- Hands-on experience building automated response workflows (Tines, Shuffle) and correlating security telemetry across endpoints, SIEM, and cloud environments.
+- Skilled in validating alerts, identifying IOCs, reconstructing attack chains, performing digital forensics, and recommending containment and remediation actions.
+- Hands-on exposure to AWS cloud investigations (CloudTrail, IAM, S3, EC2).
 
 Currently focused on developing practical SOC investigation, detection engineering, and SOAR automation skills.
 
